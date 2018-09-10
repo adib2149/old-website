@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Riddhiman</strong> Adib
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: Riddhiman <strong>Adib</strong>
+description: Ph.D. student. Tech explorer. Android Enthusiast. Occasional Blogger. Self-proclaimed Musician.
 
 profile:
   align: right
@@ -15,9 +15,8 @@ profile:
 news: true
 social: true
 ---
+I am currently pursuing my Ph.D. (2nd year) in [Department of Mathematics, Statistics and Computer Science](http://marquette.edu/mscs/){:target="\_blank"} at [Marquette University](http://marquette.edu/){:target="\_blank"}. I am a member of the [Ubicomp Lab](http://ubicomp.mscs.mu.edu/){:target="\_blank"}, working with my Ph.D. Supervisor, [Dr. Sheikh Iqbal Ahamed](http://www.marquette.edu/mscs/facstaff-ahamed.shtml){:target="\_blank"}. My research interests include `mobile health and computing`, `ubiquitous computing`, `crisis management`
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Before coming to US, I worked as the Android Lead at a Dhaka-based local startup in restaurant discovery service, [Harriken.com Limited](https://harriken.com){:target="\_blank"}. I finished my undergrad in Electrical and Electronics Engineering from [Bangladesh University of Engineering and Technology](http://buet.ac.bd/){:target="\_blank"}. I finished my High school from [Jhenidah Cadet College](https://jcc.army.mil.bd/){:target="\_blank"}.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+When I am not down at the lab, I enjoy my free time mostly by singing. My hobbies include reading, playing guitar, experimenting with electronics and electronic gadgets, playing basketball, playing xbox, writing blogs and some more.
