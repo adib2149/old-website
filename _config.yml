@@ -24,7 +24,7 @@ orcid_id: 0000-0002-2855-342X # your ORCID ID
 contact_note: >
   E-mail is the best way to get in touch with me.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-121319187-1 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -34,7 +34,7 @@ blog_description: Grad Life. Android. Music. Movie. TechNews. Life.
 blog_external_url: https://medium.com/my-online-cafe
 
 # Pagination
-paginate: 4
+paginate: 5
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 

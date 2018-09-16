@@ -1,0 +1,7 @@
+---
+layout: post
+title: How to get started with Amazon Web Services - Part 1 - Start with EC2
+date: 2016-09-05 07:28:00-0500
+description: What's new?
+external_url: https://medium.com/my-online-cafe/aws-tutorial-part-1-b46c8b77683b
+---

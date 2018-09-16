@@ -1,0 +1,7 @@
+---
+layout: post
+title: How to get started with Amazon Web Services - Part 3 - The Last One
+date: 2016-09-25 12:25:00-0500
+description: What's new?
+external_url: https://medium.com/my-online-cafe/how-to-get-started-with-amazon-web-services-part-3-the-last-one-273b56a0bd3d
+---

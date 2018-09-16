@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Riddhiman <strong>Adib</strong>
-description: Ph.D. student. Tech explorer. Android Enthusiast. Occasional Blogger. Self-proclaimed Musician.
+description: Ph.D. student. Tech explorer. Android Enthusiast. Self-proclaimed Musician. Prefers calling him "<u>Adib</u>".
 
 profile:
   align: right
