@@ -29,8 +29,9 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+blog_name: My Online Cafe
+blog_description: Grad Life. Android. Music. Movie. TechNews. Life.
+blog_external_url: https://medium.com/my-online-cafe
 
 # Pagination
 paginate: 4

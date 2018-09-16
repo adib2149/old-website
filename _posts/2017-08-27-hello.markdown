@@ -1,0 +1,7 @@
+---
+layout: post
+title: Hello 2.0 for my readers!
+date: 2017-08-27 04:06:35-0500
+description: What's new?
+external_url: https://medium.com/my-online-cafe/hello-2-0-for-my-readers-4d5603101253
+---
