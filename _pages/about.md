@@ -9,7 +9,7 @@ profile:
   image: adib_pic.jpg # prof_pic.jpg
   address: >
     <p>Ubicomp Lab,</p>
-    <p>Cudahy Hall,</p>
+    <p>Dept. of Math, Stat and Computer Science,</p>
     <p>Marquette University,</p>
     <p>Milwaukee, WI 53233, USA</p>
 
