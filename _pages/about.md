@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: Riddhiman <strong>Adib</strong>
-description: Ph.D. student. Tech explorer. Android Enthusiast. Self-proclaimed Musician. Prefers calling him "<u>Adib</u>".
+title: <strong>Riddhi</strong>man Adib
+description: Ph.D. student. Tech explorer. Android Enthusiast. Self-proclaimed Musician. Prefers calling him "<u>Riddhi</u>".
 
 profile:
   align: right
