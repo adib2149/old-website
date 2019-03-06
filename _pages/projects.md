@@ -7,7 +7,7 @@ description: A growing collection of projects I am and have been working on.
 
 <h3>Research Projects</h3>
 <ul>
-    <li>Search for causation of delirium patients in the ICU based on causal inference and related theories</li>
+    <li>Application of causal inference in finding drug-effects and causation of delirium patients in the ICU</li>
     <li>Electronic Palliative care solution for critically ill people in developing countries</li>
     <li>Crisis management in PTSD-affected veterans using peer mentor relationship</li>
     <li>System development for discharge intervention for children after solid organ transplant</li>
