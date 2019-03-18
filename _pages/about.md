@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Riddhi</strong>man Adib
-description: Ph.D. student. Tech explorer. Android Enthusiast. Self-proclaimed Musician. Prefers calling him "<u>Riddhi</u>".
+description: Ph.D. student. Tech explorer. Android Enthusiast. Self-proclaimed Musician. Goes by "<u>Riddhi</u>".
 
 profile:
   align: right
