@@ -8,7 +8,8 @@ profile:
   align: right
   image: adib_pic.jpg # prof_pic.jpg
   address: >
-    <p>Ubicomp Lab,</p>
+    <p>Summer Research Intern, Purdue University,</p>
+    <p>Lab Manager, Ubicomp Lab,</p>
     <p>Dept. of Math, Stat and Computer Science,</p>
     <p>Marquette University,</p>
     <p>Milwaukee, WI 53233, USA</p>
@@ -30,4 +31,4 @@ Working under the supervision of my Ph.D. Supervisor, [Dr. Sheikh Iqbal Ahamed](
 
 <!-- Before coming to US, I worked as the Android Lead at a Dhaka-based local startup in restaurant discovery service, [Harriken.com Limited](https://harriken.com){:target="\_blank"}. I finished my undergrad in Electrical and Electronics Engineering from [Bangladesh University of Engineering and Technology](http://buet.ac.bd/){:target="\_blank"}. I finished my High school from [Jhenidah Cadet College](https://jcc.army.mil.bd/){:target="\_blank"}. -->
 
-When I am not down at the lab, I enjoy my free time mostly by singing. My hobbies include reading, playing guitar, experimenting with electronics and electronic gadgets, playing basketball, playing xbox, writing blogs and some more.
+When I am not down at the lab, I enjoy my free time mostly by singing. My hobbies include reading, playing guitar, experimenting with electronics and electronic gadgets, playing boardgames, playing basketball, gaming on my ~~xbox~~ PS4, writing blogs and some more.
