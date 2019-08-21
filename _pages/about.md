@@ -8,9 +8,8 @@ profile:
   align: right
   image: adib_pic.jpg # prof_pic.jpg
   address: >
-    <p>Summer Research Intern, Purdue University,</p>
     <p>Lab Manager, Ubicomp Lab,</p>
-    <p>Dept. of Math, Stat and Computer Science,</p>
+    <p>Dept. of Computer Science,</p>
     <p>Marquette University,</p>
     <p>Milwaukee, WI 53233, USA</p>
 
