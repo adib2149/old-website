@@ -13,7 +13,7 @@ footer_text: >
 
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: August 21, 2019 # leave blank if you don't want to display last updated
+last_updated: August 22, 2019 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -66,7 +66,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 50
+news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

@@ -16,7 +16,7 @@ profile:
 news: true
 social: true
 ---
-I am currently pursuing my Ph.D. (2nd year) in Computational Sciences at Marquette University.
+I am currently pursuing my Ph.D. (2nd year) in Computer Science at Marquette University.
 
 Working under the supervision of my Ph.D. Supervisor, [Dr. Sheikh Iqbal Ahamed](http://www.marquette.edu/mscs/facstaff-ahamed.shtml){:target="\_blank"}, I am actively working on several projects involving `causal inference`, `mobile health and computing`, `ubiquitous computing`, `crisis management` etc. in the [Ubicomp Lab](http://ubicomp.mscs.mu.edu/){:target="\_blank"}, at [Marquette University](http://marquette.edu/){:target="\_blank"}. Here's a [list](https://adib2149.github.io/projects){:target='\_blank'} of all the projects I am working on.
 

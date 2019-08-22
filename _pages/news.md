@@ -1,9 +1,15 @@
-<div class="news">
-  <h2>news</h2>
+---
+layout: page
+title: news
+permalink: /news/
+description: General updates of my study, research and publications.
+---
+
+<div>
   {% if site.news  %}
     <table>
     {% assign news = site.news | reverse %}
-    {% for item in news limit: site.news_limit %}
+    {% for item in news %}
       <tr>
         <td class="date">{{ item.date | date: "%b %-d, %Y" }}</td>
         <td class="announcement">
@@ -16,8 +22,6 @@
       </tr>
     {% endfor %}
     </table>
-    <br>
-    <div style="text-align: center"><a href="{{ '/news/' | prepend: site.baseurl | prepend: site.url }}">See more updates...</a></div>
   {% else %}
     <p>No news so far...</p>
   {% endif %}
