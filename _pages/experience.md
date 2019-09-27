@@ -7,7 +7,7 @@ description: Experiences in professional, academic and personal life. Jotted dow
 
 <h3>Education</h3>
 <ul>
-    <li><i>Currently enrolled</i>: Doctoral student in Department of Math, Statistics and Computer Science at Marquette University (Expected graduation: 2022)</li>
+    <li><i>Currently enrolled</i>: Doctoral student in Department of Computer Science at Marquette University (Expected graduation: 2022)</li>
     <li><i>Undergraduate</i> in Electrical and Electronics Engineering from Bangladesh University of Engineering and Technology (2015)</li>
     <li><i>Higher Secondary</i> from Jhenidah Cadet College (40th intake, 2009)</li>
 </ul>
