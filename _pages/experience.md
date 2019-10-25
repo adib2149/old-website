@@ -16,8 +16,8 @@ description: Experiences in professional, academic and personal life. Jotted dow
 
 <h3>Experience</h3>
 <ul>
-    <li>Summer Intern (Visiting Scholar), Regenstrief Center for Healthcare Engineering, Purdue University (Summer 2019-ongoing)</li>
-    <li>Graduate Research Assistant, Ubicomp Lab (Summer 2018-Spring 2019)</li>
+    <li>Graduate Research Assistant, Ubicomp Lab (Summer 2018-Spring 2019, Fall 2019-ongoing)</li>
+    <li>Summer Intern (Visiting Scholar), Regenstrief Center for Healthcare Engineering, Purdue University (Summer 2019)</li>
     <li>Graduate Teaching Assistant for Calculus 1, Calculus 2 at Marquette University (Fall 2017-Spring 2018)</li>
     <li>Former Android Lead at Harriken.com Limited, Dhaka, Bangladesh (2015-2017)</li>
     <li>Former General Secretary of BUET Film Society (2014-2015)</li>

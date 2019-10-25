@@ -16,18 +16,13 @@ profile:
 news: true
 social: true
 ---
-I am currently pursuing my Ph.D. (2nd year) in Computer Science at Marquette University.
 
-Working under the supervision of my Ph.D. Supervisor, [Dr. Sheikh Iqbal Ahamed](http://www.marquette.edu/mscs/facstaff-ahamed.shtml){:target="\_blank"}, I am actively working on several projects involving `causal inference`, `mobile health and computing`, `ubiquitous computing`, `crisis management` etc. in the [Ubicomp Lab](http://ubicomp.mscs.mu.edu/){:target="\_blank"}, at [Marquette University](http://marquette.edu/){:target="\_blank"}. Here's a [list](https://adib2149.github.io/projects){:target='\_blank'} of all the projects I am working on.
+I am currently pursuing my Ph.D. (3rd year) in Computer Science at Marquette University, working as a research member at the Ubicomp Lab.
 
-<!-- Currently involved in:
-<ul>
-    <li>Application of Causal Inference on delirium patients in the ICU</li>
-    <li>mHealth solutions in Crisis Management for U.S. Veterans</li>
-    <li>myFAMI</li>
-    <li>E-PED</li>
-</ul> -->
+Working under the supervision of my Ph.D. Supervisor, [Dr. Sheikh Iqbal Ahamed](http://www.marquette.edu/mscs/facstaff-ahamed.shtml){:target='\_blank'}, and with direct guidance from [Dr. Mohammad Adibuzzaman](https://www.purdue.edu/discoverypark/rche/people/profiles/adibuzzaman_mohammad.php){:target='\_blank'}, I am actively working in the field of Causal Inference. My primary focus is to apply `Causal Inference` and related theories in exploring cause-and-effect relationships in datasets. In the past, I have worked on multiple projects involving `mobile health and computing`, `ubiquitous computing`, `crisis management`, etc. Here’s a [list](https://adib2149.github.io/projects){:target='\_blank'} of all the projects I have worked on.
 
-<!-- Before coming to US, I worked as the Android Lead at a Dhaka-based local startup in restaurant discovery service, [Harriken.com Limited](https://harriken.com){:target="\_blank"}. I finished my undergrad in Electrical and Electronics Engineering from [Bangladesh University of Engineering and Technology](http://buet.ac.bd/){:target="\_blank"}. I finished my High school from [Jhenidah Cadet College](https://jcc.army.mil.bd/){:target="\_blank"}. -->
+Apart from the research works, when I am not down at the lab, I enjoy my free time mostly by singing. My other hobbies include reading thriller books, playing guitar, experimenting with electronics and electronic gadgets, playing board games, playing basketball, gaming on my ~~xbox~~ PS4, writing blogs, and some more.
 
-When I am not down at the lab, I enjoy my free time mostly by singing. My hobbies include reading, playing guitar, experimenting with electronics and electronic gadgets, playing boardgames, playing basketball, gaming on my ~~xbox~~ PS4, writing blogs and some more.
+---
+
+I was introduced to the world of Causal Inference (by Dr. Adib) just last year. I was immediately hooked to the fascinating works of Pearl, Elias, Rubin, Hernan, and many other researchers working relentlessly in this field. It has been a rabbit hole from there, and the more I learn, the more I find there is left to answer. I firmly believe `Causal Inference` is going to be the future of data science in the next decades, and that is why I have decided to pursue this and make it my Ph.D. dissertation work. I am currently exploring theories of Causal Inference, finding novel ways to capture Survival Analysis using it, and applying these in exploring the efficacy of Antipsychotic drugs in the treatment of Delirium by emulating Randomized Controlled Trials from an observational dataset.
