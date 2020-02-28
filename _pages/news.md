@@ -3,6 +3,7 @@ layout: page
 title: news
 permalink: /news/
 description: General updates of my study, research and publications.
+order: 3
 ---
 
 <div>
