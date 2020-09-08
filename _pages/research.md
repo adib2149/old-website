@@ -46,8 +46,17 @@ Here's a [list of my publications](/publications).
 
 <h3>Open Source Projects</h3>
 <ul>
-    <li><a href="https://github.com/adib2149/BottomNavBar" target="_blank">BottomNavBar</a> <i>(Android library to add bottom navigation bar to application - 170 github stars)</i></li>
-    <li><a href="https://github.com/adib2149/FormMaster" target="_blank">FormMaster</a> <i>(Android library to easily build and use larger forms - 110 github stars)</i></li>
+    <li>
+        <a href="https://github.com/adib2149/BottomNavBar" target="_blank">BottomNavBar</a>
+        <a class="github-button" href="https://github.com/adib2149/BottomNavBar" data-show-count="true" aria-label="Star adib2149/BottomNavBar on GitHub">Star</a>
+        <i> - Android library to add bottom navigation bar to application</i>
+    </li> 
+    <li>
+        <a href="https://github.com/adib2149/FormMaster" target="_blank">FormMaster</a>
+        <a class="github-button" href="https://github.com/adib2149/FormMaster" data-show-count="true" aria-label="Star adib2149/FormMaster on GitHub">Star</a>
+        <i> - Android library to easily build and use larger forms</i>
+    </li>
+    
 </ul>
 
 ---
