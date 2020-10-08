@@ -6,7 +6,7 @@ description: Ph.D. candidate. Tech explorer. Android Enthusiast. Self-proclaimed
 
 profile:
   align: right
-  image: adib_pic.jpg # prof_pic.jpg
+  image: adib_pic.png # prof_pic.jpg
   address: >
     <p>Lab Manager, Ubicomp Lab,</p>
     <p>Dept. of Computer Science,</p>
