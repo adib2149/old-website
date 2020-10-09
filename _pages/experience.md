@@ -20,7 +20,8 @@ order: 2
 <h3>Education</h3>
 <ul>
     <li><i>Currently enrolled</i>: Doctoral student in Department of Computer Science at Marquette University (Expected graduation: 2022)</li>
-    <li><i>Undergraduate</i> in Electrical and Electronics Engineering from Bangladesh University of Engineering and Technology (2015)</li>
+    <li><i>M.S. in Computing</i> (Specialization: Big Data and Data Analysis) from Department of Computer Science at Marquette University (2020)</li>
+    <li><i>B.Sc.</i> in Electrical and Electronics Engineering from Bangladesh University of Engineering and Technology (2015)</li>
     <li><i>Higher Secondary</i> from Jhenidah Cadet College (40th intake, 2009)</li>
 </ul>
 
