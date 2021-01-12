@@ -1,5 +1,5 @@
 current directory: /Users/riddhimanadib/Documents/adib2149.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
-/Users/riddhimanadib/.rbenv/versions/2.6.5/bin/ruby -I /Users/riddhimanadib/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20210112-81835-16sl74s.rb extconf.rb
+/Users/riddhimanadib/.rbenv/versions/2.6.5/bin/ruby -I /Users/riddhimanadib/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20210112-84620-3tgk86.rb extconf.rb
 creating Makefile
 
 current directory: /Users/riddhimanadib/Documents/adib2149.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
@@ -118,4 +118,4 @@ linking shared-object commonmarker/commonmarker.bundle
 
 current directory: /Users/riddhimanadib/Documents/adib2149.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20210112-81835-1ydhhmm/commonmarker
+/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20210112-84620-d2md6z/commonmarker

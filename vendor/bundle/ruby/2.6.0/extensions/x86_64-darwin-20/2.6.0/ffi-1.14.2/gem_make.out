@@ -1,5 +1,5 @@
 current directory: /Users/riddhimanadib/Documents/adib2149.github.io/vendor/bundle/ruby/2.6.0/gems/ffi-1.14.2/ext/ffi_c
-/Users/riddhimanadib/.rbenv/versions/2.6.5/bin/ruby -I /Users/riddhimanadib/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20210112-81835-g2nbtj.rb extconf.rb
+/Users/riddhimanadib/.rbenv/versions/2.6.5/bin/ruby -I /Users/riddhimanadib/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20210112-84620-jkvzch.rb extconf.rb
 checking for ffi_prep_closure_loc() in -lffi... yes
 checking for ffi_prep_cif_var()... yes
 checking for ffi_raw_call()... yes
@@ -39,4 +39,4 @@ linking shared-object ffi_c.bundle
 
 current directory: /Users/riddhimanadib/Documents/adib2149.github.io/vendor/bundle/ruby/2.6.0/gems/ffi-1.14.2/ext/ffi_c
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20210112-81835-osnayq
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20210112-84620-195frve
