@@ -23,6 +23,7 @@ Here's a [list of my publications](/publications).
 <h3>Presentations and Posters</h3>
 
 <ul>
+    <li><a href="/assets/pdf/causal_inference_invited_talk_spring2021.pdf">Presentation slides</a> for invited talk on <i>"Introduction to Causal Inference"</i> for COSC 5931/4931 Machine Learning Principles, Spring 2021 at Marquette University</li>
     <li><a href="/assets/pdf/ML4HC_causal_hr_estimation.pdf">Poster</a> and <a href="https://youtu.be/SNuG2SJR-nc">recorded talk</a> for <i>"A Causally Formulated Hazard Ratio Estimation through Backdoor Adjustment on Structural Causal Model"</i> in MLHC 2020</li>
     <li><a href="/assets/pdf/compsac_2019_HappyDB.pdf">Presentation slides</a> for <i>"Analyzing Happiness: Investigation on Happy Moments using a Bag-of-words Approach and Related Ethical Discussions"</i> in Compsac 2019</li>
     <li><a href="/assets/pdf/compsac_2019_ipeer.pdf">Presentation slides</a> for <i>"Towards Predicting Risky Behavior among Veterans with PTSD by Analyzing Gesture Patterns"</i> in Compsac 2019</li>
