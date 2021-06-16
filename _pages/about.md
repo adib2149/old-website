@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Riddhi</strong>man Adib
-description: Ph.D. candidate. Problem Solver. Android Enthusiast. Self-proclaimed Musician. Goes by "<u>Riddhi</u>".
+description: Ph.D. candidate. Problem Solver. Tech Enthusiast. Self-proclaimed Musician. Goes by "<u>Riddhi</u>". (<a href="/assets/img/name_in_bengali.png" target="blank">my name in Bengali</a>)
 
 profile:
   align: right
