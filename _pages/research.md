@@ -1,9 +1,9 @@
 ---
 layout: page
-title: research
 permalink: /research/
+title: research
 description: General updates of my study, research and publications.
-order: 1
+nav: false
 ---
 
 <h3>Research Interest</h3>
@@ -73,4 +73,3 @@ Here's a [list of my publications](/publications).
     <li><a href="https://play.google.com/store/apps/developer?id=Dryhootch+of+America" target="_blank">QRF Mentor and Veteran</a> <i>(Android client for collaboration and communication between peer mentors and veterans)</i></li>
     <li><a href="http://world-in-360.herokuapp.com/" target="_blank">World-in-360</a> <i>(Web application to showcase 360 degree panaromic images)</i></li>
 </ul>
-

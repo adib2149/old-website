@@ -3,10 +3,11 @@ layout: page
 permalink: /experience/
 title: experience
 description: Experiences in professional, academic and personal life. Jotted down in a page.
+nav: true
 order: 2
 ---
 
-<h3>Experience</h3>
+<h3>Work Experience</h3>
 <ul>
     <li>Graduate Research Assistant, Ubicomp Lab (Summer 2018-Spring 2019, Fall 2019-ongoing)</li>
     <li>Summer Intern (Visiting Scholar), Regenstrief Center for Healthcare Engineering, Purdue University (Summer 2019)</li>

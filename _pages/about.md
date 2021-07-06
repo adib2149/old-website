@@ -1,20 +1,21 @@
 ---
 layout: about
+title: about
 permalink: /
-title: <strong>Riddhi</strong>man Adib
 description: Ph.D. candidate. Problem Solver. Tech Enthusiast. Self-proclaimed Musician. Goes by "<u>Riddhi</u>". (<a href="/assets/img/name_in_bengali.png" target="blank">my name in Bengali</a>)
 
 profile:
   align: right
-  image: adib_pic.png # prof_pic.jpg
+  image: adib_pic.jpg # prof_pic.jpg
   address: >
     <p>Graduate Research Assistant, Ubicomp Lab,</p>
     <p>Dept. of Computer Science,</p>
     <p>Marquette University,</p>
     <p>Milwaukee, WI 53233, USA</p>
 
-news: true
-social: true
+news: true  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. candidate in Computer Science at Marquette University, currently at my 4th year, working as a Graduate Research Assistant at the Ubicomp Lab.
